@@ -19,3 +19,12 @@ I have tested it on a Linux system with gcc.
 
 Stefanos Kozanis
 October, 3 2006
+
+Project original source: http://itia.ntua.gr/~soulman/icoordstrans/
+
+Execution
+=========
+
+To run it locally use:
+LD_LIBRARY_PATH=$PWD ./test
+
