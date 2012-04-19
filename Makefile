@@ -19,5 +19,5 @@ test.o: test.c
 	g++ -fPIC -c test.c
 
 clean:
-	rm -f corefuncs.o main_types.o main.o icoordstrans.so test.o test
+	rm -fv corefuncs.o main_types.o main.o icoordstrans.so libicoordstrans.so test.o test
 
